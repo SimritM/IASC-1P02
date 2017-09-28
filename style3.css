@@ -1,0 +1,10 @@
+.font{
+font: arial;
+text-transform:uppercase;
+}
+
+
+.border{
+border-color: black;
+border-style: solid;
+}
