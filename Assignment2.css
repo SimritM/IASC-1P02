@@ -1,0 +1,28 @@
+.greenFont{
+  color:green;
+  font-style: italic;
+  }
+
+  .inLine{
+  font-size:20px;
+  font-family: sans-serif;
+  text-transform: lowercase;
+  position: relative;
+  }
+
+.inLine2{
+  position: fixed;
+}
+  .box{
+    margin-top:20px;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    border: black 3px dashed;
+    padding: 10px 20% 10px 20%;
+    position: absolute;
+  }
+
+p.myStyle{
+  color: red;
+}
