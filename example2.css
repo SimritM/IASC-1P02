@@ -1,0 +1,42 @@
+body{
+  background-color: white;
+}
+
+.box1{
+  border-style: dotted;
+  border-color: purple;
+  margin: 20px;
+  height: 400px;
+}
+
+.textCentre{
+  text-align: center;
+  padding-top: 300px;
+}
+
+.greenText{
+  color: green;
+  text-align: center;
+  font-size: 8px;
+}
+
+.moreText{
+  color: orange;
+  font-size: 30px;
+
+}
+
+.redText{
+  color: red;
+  vertical-align: super;
+}
+
+.moreText2{
+  color: purple;
+  font-size: 6px;
+  text-align: right;
+}
+
+.yellowText{
+  color: yellow;
+}

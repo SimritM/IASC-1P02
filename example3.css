@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+}
+
+.box1{
+  background-color: green;
+  border-style: dotted black;
+  color: green;
+  margin: 20px;
+  height: 100px;
+
+
+}
+
+.redText{
+  color: red;
+  padding-top: 20px;
+}
